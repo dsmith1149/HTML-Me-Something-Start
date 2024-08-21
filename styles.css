@@ -1,1 +1,26 @@
 /* Write your CSS here! */
+body {
+    background-color: lightcoral;
+}
+
+img {
+    margin: auto;
+    padding: 0%;
+    height: "";
+    width: "";
+    display: inline-block;
+}
+p {
+    font-size: large;
+}
+
+#mainHeading {
+    color: red;
+    margin: auto;
+    padding: auto;
+}
+
+.funParagraph {
+    color: green;
+    margin: auto;
+}
